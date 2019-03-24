@@ -22,7 +22,7 @@ This will get you a local install of [cabal](https://github.com/haskell/cabal), 
 
 [stack](https://github.com/commercialhaskell/stack) is an "all-in-one" build tool which pins all dependencies to stable, curated package sets and GHC versions. You may install stack by following the [instructions](https://docs.haskellstack.org/en/stable/README/#how-to-install).
 
-**WARNING**: this will result in a global install of a binary. Installing dependencies via `stack install` or `cabal install` will result in global dependencies, so be aware, and stick to `stack build` and `cabal v2-build`.
+**WARNING**: Installing dependencies via `stack install` or `cabal install` will result in global dependencies, so be aware, and stick to `stack build` and `cabal v2-build`.
 
 You may remove stack or cabal dependencies at any time by removing `~/.local` for `stack`, or `~/.cabal` for `cabal`, or wherever you set the install directory.
 
