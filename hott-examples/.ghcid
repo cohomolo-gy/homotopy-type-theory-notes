@@ -1,0 +1,2 @@
+-c "cabal v2-repl lib:hott -fno-code -ferror-spans"
+

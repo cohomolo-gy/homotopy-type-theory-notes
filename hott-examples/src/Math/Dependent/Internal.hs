@@ -1,0 +1,11 @@
+-----------------------------------------------------------------------------
+-- |
+-- Module      :  Math.Dependent
+-- Copyright   :  (c) Emily Pillmore
+-- License     :  BSD-style (see the file LICENSE)
+-- Maintainer  :  Emily Pillmore <emilypi@cohomolo.gy>
+-- Stability   :  experimental
+-- Portability :  non-portable
+--
+----------------------------------------------------------------------------
+module Math.Dependent.Internal where
